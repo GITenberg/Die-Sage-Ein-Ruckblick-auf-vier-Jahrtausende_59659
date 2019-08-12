@@ -1,5 +1,8 @@
 _repo: Die-Sage-Ein-Ruckblick-auf-vier-Jahrtausende_59659
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59659-h/images/cover.jpg
 creator:
   author:
     agent_name: Feldhaus, Franz M. (Franz Maria)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46573'
     url: http://www.gutenberg.org/2009/agents/46573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59659#Die-Sage-Ein-Ruckblick-auf-vier-Jahrtausende
 gutenberg_issued: '2019-06-02'
 gutenberg_type: Text
 identifiers:
